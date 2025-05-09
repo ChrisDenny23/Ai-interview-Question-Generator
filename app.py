@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=YOUR-OPEN-API-KEY")
 
 st.title("AI Interview Question Generator")
 
